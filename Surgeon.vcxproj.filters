@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Hossein Rostami\Desktop\4001\Sina-Abdollahi\cmake-3.22.0-rc2-windows-x86_64\bin\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Hossein Rostami\Desktop\4001\Sina-Abdollahi\cmake-3.22.0-rc2-windows-x86_64\bin\Scissors.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Hossein Rostami\Desktop\4001\Sina-Abdollahi\cmake-3.22.0-rc2-windows-x86_64\bin\Forceps.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hossein Rostami\Desktop\4001\Sina-Abdollahi\cmake-3.22.0-rc2-windows-x86_64\bin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{86D5B91F-AE51-384F-A258-46690BF0CD38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4E4B0E09-525F-32D5-AF6B-592B6EA204AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

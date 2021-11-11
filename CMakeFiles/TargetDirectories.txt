@@ -1,0 +1,3 @@
+C:/Users/Hossein Rostami/Desktop/4001/Sina-Abdollahi/cmake-3.22.0-rc2-windows-x86_64/bin/CMakeFiles/Surgeon.dir
+C:/Users/Hossein Rostami/Desktop/4001/Sina-Abdollahi/cmake-3.22.0-rc2-windows-x86_64/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Hossein Rostami/Desktop/4001/Sina-Abdollahi/cmake-3.22.0-rc2-windows-x86_64/bin/CMakeFiles/ZERO_CHECK.dir
